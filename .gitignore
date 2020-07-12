@@ -1,6 +1,7 @@
 # Directories
 .vs
-Debug
+bin
+obj
 
 # Files
 **/*.user
